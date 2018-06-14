@@ -1,0 +1,7 @@
+push
+rotate x -90
+rotate z 30
+move 100 -100 -100
+mesh :car.obj
+display
+save car.png

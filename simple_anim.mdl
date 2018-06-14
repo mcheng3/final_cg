@@ -1,6 +1,0 @@
-push
-rotate y -15
-// From https://www.turbosquid.com/3d-models/free-obj-mode-demon-head-1/694916
-mesh :demon.obj
-display
-save t.png
