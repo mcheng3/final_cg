@@ -1,4 +1,4 @@
-test: robot.mdl lex.py main.py matrix.py mdl.py display.py draw.py gmath.py yacc.py
+test: car.mdl lex.py main.py matrix.py mdl.py display.py draw.py gmath.py yacc.py
 	python main.py car.mdl
 
 clean:
